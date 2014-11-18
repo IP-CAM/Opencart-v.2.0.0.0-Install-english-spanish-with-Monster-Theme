@@ -1,0 +1,6 @@
+text edit falta en el archivo setting.php linea 29 en el admin---
+
+$data['text_select'] = $this->language->get('text_select');
+		$data['text_edit'] = $this->language->get('text_edit');
+		$data['text_none'] = $this->language->get('text_none');
+

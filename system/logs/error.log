@@ -1,0 +1,7 @@
+2014-11-12 5:21:03 - PHP Notice:  Undefined variable: text_edit in /home/yomero/public_html/opencart/admin/view/template/setting/setting.tpl on line 29
+2014-11-12 5:21:31 - PHP Notice:  Undefined variable: text_edit in /home/yomero/public_html/opencart/admin/view/template/setting/setting.tpl on line 29
+2014-11-12 5:29:14 - PHP Notice:  Undefined variable: text_edit in /home/yomero/public_html/opencart/admin/view/template/setting/setting.tpl on line 29
+2014-11-12 5:30:21 - PHP Notice:  Undefined variable: text_edit in /home/yomero/public_html/opencart/admin/view/template/setting/setting.tpl on line 29
+2014-11-12 5:31:35 - PHP Notice:  Undefined variable: text_edit in /home/yomero/public_html/opencart/admin/view/template/setting/setting.tpl on line 29
+2014-11-13 5:26:59 - PHP Notice:  Undefined index: height in /home/yomero/public_html/opencart/admin/controller/module/latest.php on line 111
+2014-11-13 5:26:59 - PHP Notice:  Undefined index: height in /home/yomero/public_html/opencart/admin/controller/module/latest.php on line 93
