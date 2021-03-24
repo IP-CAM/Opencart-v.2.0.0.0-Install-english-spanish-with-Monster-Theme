@@ -1,4 +1,4 @@
-openCart_monster
+OpenCart with Monster Theme
 ================
 
-openCart2
+OpenCart v.2.0.0.0
